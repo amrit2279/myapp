@@ -1,0 +1,23 @@
+img {
+    max-width: 100%;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+    columns: 3;
+}
+.main{
+    color: aliceblue;
+    position: absolute;
+    width: 100%;
+    margin-bottom: -2px;
+    bottom: 0;
+}
+li{
+    padding: 10px;
+}
+.footer_text{
+    font-size: large;
+    color: aliceblue;
+}
